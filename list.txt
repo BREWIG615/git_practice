@@ -7,6 +7,8 @@ Apples
 
 Meat:
 Bratwurst
+Steak
+Pork Chops
 
 Dairy:
 Milk 
