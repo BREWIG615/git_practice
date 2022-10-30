@@ -9,5 +9,8 @@ Meat:
 Bratwurst
 
 Dairy:
+Milk 
+Eggs
+Half & Half
 
 Household:
