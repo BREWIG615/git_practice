@@ -1,4 +1,12 @@
+FRUIT and Veggies:
+
 Bananas
 Oranges
 Strwberries
 Apples
+
+Meat:
+
+Dairy:
+
+Household:
